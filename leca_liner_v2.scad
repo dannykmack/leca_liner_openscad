@@ -15,9 +15,9 @@ $fs = 2.3;
 //  - It's usually best to make the top_diameter a few mm smaller than the actual diameter
 //  - Even if the pot is a cylinder and doesn't taper, set bottom_diameter about 10mm smaller than the top_diameter
 
-height          = 163; // Height in millimeters from the rim of the pot to the bottom of the inside of the pot
-top_diameter    = 122; // Top Diameter in millimeters.
-bottom_diameter = 92; // Bottom Diameter in millimeters.
+height          = 100; // Height in millimeters from the rim of the pot to the bottom of the inside of the pot
+top_diameter    = 100; // Top Diameter in millimeters.
+bottom_diameter = 80; // Bottom Diameter in millimeters.
 
 name_label      = "barrel";
 
