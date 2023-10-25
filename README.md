@@ -19,7 +19,7 @@ The .stl file is just an example. Use the customer, or use the *.scad file with 
  - set the bottom_diameter.
 
 
-## If you haven't heard of Lecca or semi-hydro before:
+## If you haven't heard of leca or semi-hydro before:
 It's a great alternative to growing plants with soil. It allows you to have more control of the nutrients given to a plant, minimize pests, monitor water level, and monitor root health :)
 
 
