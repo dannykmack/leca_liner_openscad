@@ -1,6 +1,6 @@
 Customize on Thingiverse: https://www.thingiverse.com/thing:6282148
 
-I've been making these Lecca plant pot liners for years now and thought they might be useful to other people. This allows you to make custom liners for any pot that fit perfectly!
+I've been making these leca plant pot liners for years now and thought they might be useful to other people. This allows you to make custom liners for any pot that fit perfectly!
 The .stl file is just an example. Use the customer, or use the *.scad file with https://openscad.org/
 
 ![img1](https://github.com/dannykmack/leca_liner_openscad/blob/main/IMG_2948.jpg?raw=true)
